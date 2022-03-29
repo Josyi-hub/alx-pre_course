@@ -1,2 +1,2 @@
 My first readme
-Updating 
+My first commit on gthub.com
